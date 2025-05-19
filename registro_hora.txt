@@ -1,0 +1,3 @@
+- Guardar hora al presionar botón
+- Asociar hora con usuario autenticado
+- Simulación del log de registro
