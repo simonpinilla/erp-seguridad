@@ -1,0 +1,3 @@
+- Validar que se guarden datos correctamente
+- Probar error si falta nombre o RUN
+- Confirmar persistencia en BD simulada
