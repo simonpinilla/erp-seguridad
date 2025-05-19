@@ -1,0 +1,3 @@
+- Verificación de ID usuario activo
+- Relación entre usuario y entrada/salida
+- Pruebas de persistencia simulada
