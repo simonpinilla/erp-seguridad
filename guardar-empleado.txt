@@ -1,0 +1,3 @@
+- Validación de campos obligatorios
+- Inserción a tabla Empleado
+- Mensaje de éxito o error
