@@ -1,8 +1,0 @@
-Formulario Solicitud de Vacaciones
-
-Campos:
-Fecha de inicio: [         ],
-Fecha de término: [         ],
-Motivo: __,
-
-[Enviar Solicitud]
